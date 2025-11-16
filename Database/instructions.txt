@@ -1,0 +1,3 @@
+To import the database:
+1. Open MySQL / MariaDB
+2. Run:  SOURCE danceschool.sql;
